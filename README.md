@@ -9,3 +9,4 @@
 
 Учет десятичных добавок  через отдельные таблицы для разных диапазонов. 
 
+<img width="353" height="219" alt="image" src="https://github.com/user-attachments/assets/7ef440d9-bd1a-4f5b-b7f4-682c1be9e9e6" />
